@@ -1,29 +1,29 @@
 
 
-# Infotact Solutions | Data Analytics | Internship
+# 📡 Infotact Solutions | Data Analytics 📊 | Internship 👩‍💻
 
-## Team
+## 👥 Team
 Group 17
 
 ## Projects
 
 Project 1
 
-- Project Name: GeoPulse
-- Domain Name : Retail Mobility Analytics
-- Duration: 1 Month
-- Team: Group 17
+- Project Name: GeoPulse 🗺️
+- Domain Name : Retail Mobility Analytics 📉
+- Duration: 1 Month 🗓️
+- Team: Group 17 👥
 - Sprint: Sprint 1
 - Status: 🟢 Planning
-- Project Lead: Lawrence Ruth
+- Project Lead: Lawrence Ruth 
 
 
 Project 2
 
 - Project Name: CareFlow
-- Domain Name : Retail Mobility Analytics
-- Duration: 1 Month 
-- Team: Group 17
+- Domain Name : Healthcare Operations & Process Anaytics 🏥
+- Duration: 1 Month 🗓️
+- Team: Group 17 👥
 - Sprint: Sprint 1
 - Status: ⏳ Pending
 - Project Lead: Lawrence Ruth
@@ -37,7 +37,7 @@ Project 2
 
 ## Tools
 
-- Excel
+- Excel 
 - SQL
 - Power BI
 - Python
