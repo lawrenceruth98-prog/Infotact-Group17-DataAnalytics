@@ -11,14 +11,31 @@ Group 17
 
 Project 1
 
+- Project Name: GeoPulse
+- Domain Name : Retail Mobility Analytics
+- Duration: 1 Month
+- Team: Group 17
+- Sprint: Sprint 1
+- Status: 🟢 Planning
+- Project Lead: Lawrence Ruth
+
+
 Project 2
+
+- Project Name: CareFlow
+- Domain Name : Retail Mobility Analytics
+- Duration: 1 Month 
+- Team: Group 17
+- Sprint: Sprint 1
+- Status: ⏳ Pending
+- Project Lead: Lawrence Ruth
 
 ## Team Members
 
-- Belle
-- Member 2
-- Member 3
-- Member 4
+- Lawrence Ruth 
+- Saranya A
+- Kommuri Dileep Kumar
+- Golewar Akshitha
 
 ## Tools
 
@@ -34,3 +51,4 @@ Project 2
 - Each member works on their own branch.
 - Commit changes daily.
 - Merge only after review.
+- 
