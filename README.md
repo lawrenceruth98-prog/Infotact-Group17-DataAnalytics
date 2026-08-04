@@ -1,6 +1,6 @@
 
 
-# Infotact Solutions Data Analytics Internship
+# Infotact Solutions | Data Analytics | Internship
 
 ## Team
 Group 17
