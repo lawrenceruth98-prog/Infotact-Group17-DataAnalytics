@@ -20,8 +20,8 @@ Project 1
 
 Project 2
 
-- Project Name: CareFlow
-- Domain Name : Healthcare Operations & Process Anaytics 🏥
+- Project Name: FinGraph
+- Domain Name : FinTech & Anti-Money Laundering (AML)
 - Duration: 1 Month 🗓️
 - Team: Group 17 👥
 - Sprint: Sprint 1
